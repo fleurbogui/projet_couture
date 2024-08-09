@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/client.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/commande.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/compte.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/connexion.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/employe.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/formcommande.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/gestionIndex.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/index.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/modele.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tissu.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/traitement_commande.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/traitement_connexion.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/utils.php" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>

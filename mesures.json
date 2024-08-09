@@ -1,0 +1,324 @@
+{
+    "homme": [
+        {
+            "label": "Tour de poitrine", 
+            "value": 0
+        },
+        {
+            "label": "Tour de ceinture", 
+            "value": 0
+        },
+        {
+            "label": "Tour de bassin", 
+            "value": 0
+        },
+        {
+            "label": "Longueur taille dos", 
+            "value": 0
+        },
+        {
+            "label": "Longueur taille devant", 
+            "value": 0
+        },
+        {
+            "label": "Longueur taille devant depuis la 7ème cervicale", 
+            "value": 0
+        },
+        {
+            "label": "Tour d'enclosure", 
+            "value": 0
+        },
+        {
+            "label": "Tour de tête", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur de tête", 
+            "value": 0
+        },
+        {
+            "label": "Carrure dos", 
+            "value": 0
+        },
+        {
+            "label": "Carrure devant", 
+            "value": 0
+        },
+        {
+            "label": "Longueur d'épaule", 
+            "value": 0
+        },
+        {
+            "label": "Longueur de bras", 
+            "value": 0
+        },
+        {
+            "label": "Tour de poignet", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur du corps", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur taille à terre", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur taille bassin", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur de montant", 
+            "value": 0
+        },
+        {
+            "label": "Enfourchure", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur taille au genou", 
+            "value": 0
+        },
+        {
+            "label": "Longueur d'entrejambe", 
+            "value": 0
+        },
+        {
+            "label": "Tour de cuisse", 
+            "value": 0
+        },
+        {
+            "label": "tour de mollet", 
+            "value": 0
+        },
+        {
+            "label": "Tour de jarret", 
+            "value": 0
+        }
+    ],
+    "femme": [
+        {
+            "label": "Tour de poitrine", 
+            "value": 0
+        },
+        {
+            "label": "Tour de taille", 
+            "value": 0
+        },
+        {
+            "label": "Tour des hanches", 
+            "value": 0
+        },
+        {
+            "label": "Longueur taille dos", 
+            "value": 0
+        },
+        {
+            "label": "Longueur taille devant", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur de poitrine", 
+            "value": 0
+        },
+        {
+            "label": "1/2 écart poitrine", 
+            "value": 0
+        },
+        {
+            "label": "1/2 tour d'encolure", 
+            "value": 0
+        },
+        {
+            "label": "1/2 Carrure dos", 
+            "value": 0
+        },
+        {
+            "label": "1/2 Carrure devant", 
+            "value": 0
+        },
+        {
+            "label": "Longueur d'épaule", 
+            "value": 0
+        },
+        {
+            "label": "Tour d'emmanchure", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur dessous de bras", 
+            "value": 0
+        },
+        {
+            "label": "Longueur de bras", 
+            "value": 0
+        },
+        {
+            "label": "Tour du biceps", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur du coude", 
+            "value": 0
+        },
+        {
+            "label": "Tour du poignet", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur Taille-Hanche", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur de montant", 
+            "value": 0
+        },
+        {
+            "label": "Enfourchure", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur Taille-Genou", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur Taille-Terre", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur Taille côté-Terre", 
+            "value": 0
+        }
+    ],
+    "enfant": [
+        {
+            "label": "Tour de poitrine", 
+            "value": 0
+        },
+        {
+            "label": "Tour de taille", 
+            "value": 0
+        },
+        {
+            "label": "Tour des hanches", 
+            "value": 0
+        },
+        {
+            "label": "Hauteurs des hanches", 
+            "value": 0
+        },
+        {
+            "label": "Carrure Dos", 
+            "value": 0
+        },
+        {
+            "label": "Carrure Devant", 
+            "value": 0
+        },
+        {
+            "label": "Longueur d'épaule", 
+            "value": 0
+        },
+        {
+            "label": "Longueur bras lié", 
+            "value": 0
+        },
+        {
+            "label": "Longueur au coude", 
+            "value": 0
+        },
+        {
+            "label": "Grosseur du bras", 
+            "value": 0
+        },
+        {
+            "label": "Grosseur du bracelet", 
+            "value": 0
+        },
+        {
+            "label": "Grosseur du poignet", 
+            "value": 0
+        },
+        {
+            "label": "Tour du cou", 
+            "value": 0
+        },
+        {
+            "label": "Longueur taille Dos", 
+            "value": 0
+        },
+        {
+            "label": "Longueur manteaux", 
+            "value": 0
+        },
+        {
+            "label": "Longueur robes", 
+            "value": 0
+        },
+        {
+            "label": "Longueur jupes", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur latérale de la taille à terre", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur de la cheville à terre", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur de la taille au genou", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur d'entre-jambe à terre", 
+            "value": 0
+        },
+        {
+            "label": "Hauteur du montant", 
+            "value": 0
+        },
+        {
+            "label": "Longueur dos de la veste", 
+            "value": 0
+        },
+        {
+            "label": "Largeur bas de manche", 
+            "value": 0
+        },
+        {
+            "label": "Ouverture de la poche verticale", 
+            "value": 0
+        },
+        {
+            "label": "Longueur coté du short", 
+            "value": 0
+        },
+        {
+            "label": "Tour du genou", 
+            "value": 0
+        },
+        {
+            "label": "Tour du jarret", 
+            "value": 0
+        },
+        {
+            "label": "Tour du mollet", 
+            "value": 0
+        },
+        {
+            "label": "Tour du bas de jambe", 
+            "value": 0
+        },
+        {
+            "label": "Périmètre crânien", 
+            "value": 0
+        },
+        {
+            "label": "Longueur pantalon", 
+            "value": 0
+        }
+    ]
+}
